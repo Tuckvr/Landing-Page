@@ -1,9 +1,14 @@
 .header {
     background-color: #1f2937;
+    display: flex;
 
 }
 .top-image {
     display: flex;
-    flex-shrink: 5;
+    flex-shrink: 1;
     flex-grow: 0;
+    flex-basis: auto;
+    width: 125px;
+    height: 200px;
+    margin: 50px;
 }
