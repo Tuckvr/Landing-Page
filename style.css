@@ -1,7 +1,10 @@
+.body {
+    display: flex;
+}
+
 .header {
     background-color: #1f2937;
     display: flex;
-
 }
 
 
