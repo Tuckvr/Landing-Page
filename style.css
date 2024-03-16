@@ -1,10 +1,38 @@
 .body {
     display: flex;
+    flex: 1;
 }
 
 .header {
     background-color: #1f2937;
     display: flex;
+    justify-content: center;
+}
+
+.left-logo {
+    display: flex;
+    font-size: 24px;
+    color: #f9FAF8;
+    font-weight: bold;
+    padding: 12px;
+    gap: 16px;
+    margin-left: 24px;
+}
+
+.right-links {
+    display: flex;
+    justify-content: space-between;
+}
+
+.big-text {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.small-text {
+    display: flex;
+    align-items: center;
 }
 
 
@@ -17,4 +45,10 @@
     width: 125px;
     height: 200px;
     margin: 50px;
+}
+
+.top-button {
+    display: flex;
+    height: 36px;
+    width: 36px;
 }
