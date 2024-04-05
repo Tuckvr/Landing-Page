@@ -15,6 +15,12 @@ display: flex;
 align-items: center;
 justify-content: space-around;
 margin: 0px, 10px, 10px, 10px;
+font-size: 18px;
+}
+
+.header-logo {
+height: 50px;
+width: auto;
 }
 
 .header-links {
@@ -23,6 +29,8 @@ font-size: 18px;
 color: #E5E7EB;
 list-style-type: none;
 gap: 8px;
+padding: 0px;
+margin: 0px;
 }
 
 .hero {
