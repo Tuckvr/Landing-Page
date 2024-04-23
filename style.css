@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
 
 .body {
-    display: flex;
-    flex-direction: column;
-    margin: 0;
-    min-height: 100vh;
+display: flex;
+flex-direction: column;
+margin: 0;
+min-height: 100vh;
     font-family: Roboto;
 }
 
@@ -49,8 +49,7 @@ margin-right: 400px;
 
 .jb-tech-card {
 align-self: center;
-margin-right: 200px;
--ms-flex-direction: column;
+margin-right: 20px;
 }
 
 h1 {
@@ -69,14 +68,22 @@ h1 {
 .island {
    display: flex;
    margin-bottom: 40px;
-   margin-left: 0;
 }
 
 .sign-up {
-    background-color: #24A0ED;
+    background-color: #3882F6;
     color: #E5E7EB;
     font-weight: 900;
     padding: 5px 20px;
     border-radius: 5px;
     border: 0;
+}
+
+.info {
+
+}
+
+.subhead {
+    font-size: 36px;
+    font-weight: 900;
 }
