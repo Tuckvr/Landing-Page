@@ -49,7 +49,8 @@ margin-right: 400px;
 
 .jb-tech-card {
 align-self: center;
-margin-right: 20px;
+margin-right: 200px;
+-ms-flex-direction: column;
 }
 
 h1 {
@@ -67,11 +68,15 @@ h1 {
 
 .island {
    display: flex;
-   margin: 20px;
+   margin-bottom: 40px;
+   margin-left: 0;
 }
 
 .sign-up {
     background-color: #24A0ED;
     color: #E5E7EB;
     font-weight: 900;
+    padding: 5px 20px;
+    border-radius: 5px;
+    border: 0;
 }
