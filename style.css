@@ -80,7 +80,8 @@ h1 {
 }
 
 .info-wrapper {
-
+ display: flex;
+ flex-direction: column;
 }
 
 .card-container {
@@ -88,5 +89,21 @@ h1 {
 }
 
 .card {
+
+}
+
+.coding {
+
+}
+
+.graphic-design {
+
+}
+
+.photography {
+
+}
+
+.modeling {
 
 }
