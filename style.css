@@ -108,25 +108,29 @@ margin: 80px
 
 .info {
     display: flex;
-    align-self: center;
+    align-items: center;
 }
 
 .coding {
     max-width: 150px;
     max-height: 200px;
+    border-radius: 5px;
 }
 
 .graphic-design {
     max-width: 150px;
     max-height: 200px;
+    border-radius: 5px;
 }
 
 .photography {
     max-width: 150px;
     max-height: 200px;
+    border-radius: 5px;
 }
 
 .modeling {
     max-width: 200px;
     max-height: 150px;
+    border-radius: 5px;
 }
