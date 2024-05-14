@@ -109,6 +109,7 @@ flex-wrap: wrap;
 .info {
     display: flex;
     justify-content: center;
+    margin-bottom: 10px;
 }
 
 .coding {
