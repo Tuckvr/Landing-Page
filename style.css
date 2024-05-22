@@ -140,12 +140,15 @@ flex-wrap: wrap;
 .quote-wrapper {
     background-color: #E5E7EB;
     display: flex;
+    justify-content: center;
 }
 
 .quote-container { 
-
+display: flex;
+justify-content: center;
+align-self: center;
 }
 
 .quote-name {
-    
+
 }
