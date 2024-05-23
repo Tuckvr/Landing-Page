@@ -23,6 +23,7 @@ font-size: 18px;
 .header-logo {
 height: 50px;
 width: auto;
+color: #E5E7EB;
 }
 
 .header-links {
@@ -48,8 +49,7 @@ margin-right: 400px;
 }
 
 .jb-tech-card {
-    flex-direction: column;
-align-self: center;
+    display: flex;
 margin-right: 20px;
 }
 
@@ -71,6 +71,7 @@ h1 {
    margin: 40px;
    height: 300px;
    width: 500px;
+   justify-content: flex-end;
 }
 
 .sign-up {
@@ -155,12 +156,15 @@ align-self: center;
 font-size: 36px;
 font-weight: 500;
 margin-top: 50px;
+margin-left: 150px;
 margin-bottom: 50px;
+color: #1F2937;
 }
 
 .quote-name {
 display: flex;
 justify-content: flex-end;
 align-items: end;
-margin: 10px
+margin: 10px;
+margin-left: 50px;
 }
