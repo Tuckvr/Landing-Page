@@ -142,7 +142,6 @@ flex-wrap: wrap;
     display: flex;
     flex-direction: row;
     justify-content: center;
-    margin: 50px;
 }
 
 .quote-container { 
@@ -151,6 +150,8 @@ justify-content: center;
 align-self: center;
 font-size: 36px;
 font-weight: 30;
+margin-top: 50px;
+margin-bottom: 50px;
 }
 
 .quote-name {
