@@ -140,6 +140,7 @@ flex-wrap: wrap;
 .quote-wrapper {
     background-color: #E5E7EB;
     display: flex;
+    flex-direction: row;
     justify-content: center;
 }
 
@@ -147,8 +148,14 @@ flex-wrap: wrap;
 display: flex;
 justify-content: center;
 align-self: center;
+margin: 50px;
+font-size: 36px;
+font-weight: 30;
 }
 
 .quote-name {
-
+display: flex;
+justify-content: flex-end;
+align-items: end;
+margin: 10px
 }
