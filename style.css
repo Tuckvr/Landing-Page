@@ -142,13 +142,13 @@ flex-wrap: wrap;
     display: flex;
     flex-direction: row;
     justify-content: center;
+    margin: 50px;
 }
 
 .quote-container { 
 display: flex;
 justify-content: center;
 align-self: center;
-margin: 50px;
 font-size: 36px;
 font-weight: 30;
 }
