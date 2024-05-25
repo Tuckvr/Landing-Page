@@ -21,7 +21,7 @@ font-size: 18px;
 }
 
 .header-logo {
-height: 50px;
+height: 100px;
 width: auto;
 }
 
@@ -43,8 +43,8 @@ text-decoration: none;
 display: flex;
 justify-content: center;
 padding: 40px;
-margin-left: 400px;
-margin-right: 400px;
+margin-left: 300px;
+margin-right: 300px;
 }
 
 .jb-tech-card {
