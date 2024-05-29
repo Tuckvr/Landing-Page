@@ -43,8 +43,8 @@ text-decoration: none;
 display: flex;
 justify-content: center;
 padding: 40px;
-margin-left: 300px;
-margin-right: 300px;
+margin-left: 200px;
+margin-right: 200px;
 }
 
 .jb-tech-card {
@@ -68,9 +68,9 @@ h1 {
 
 .island {
     display: flex;
-   margin: 40px;
-   height: 300px;
-   width: 500px;
+    margin: 40px;
+    height: 300px;
+    width: 500px;
 }
 
 .sign-up {
@@ -101,6 +101,8 @@ display: flex;
 flex-direction: row;
 justify-content: space-evenly;
 flex-wrap: wrap;
+margin-left: 70px;
+margin-right: 70px;
 }
 
 .card {
